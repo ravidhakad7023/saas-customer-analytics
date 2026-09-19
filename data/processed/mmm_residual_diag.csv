@@ -1,0 +1,8 @@
+check,value,target,verdict
+Train DW,2.028,1.5-2.5,OK
+Holdout DW,1.892,1.5-2.5,OK
+Holdout/Train std ratio,1.142,<1.5,OK
+Bias t-test p,0.2759,>0.05,OK
+Window RMSE Q1-Q4,"[14.94, 18.62, 27.28, 6.1]",Stable,OK
+Q4 share mismatch,tr=0.15 ho=0.65,<0.15,FLAG
+ROOT CAUSE DIAGNOSIS,SEASONAL MISMATCH,,

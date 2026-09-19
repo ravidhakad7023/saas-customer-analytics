@@ -1,0 +1,6 @@
+action,metric,base,mde,vol_wk,test_type,win,guard,n_per_arm,total_n,min_wks
+Pro $79→$40 reprice,Trial-to-paid CR,0.18,0.15,45,A/B checkout,CR≥20.7% AND 30d MRR/cohort≥ctrl,MRR/customer≥$30,1679,3358,75
+Enterprise $299→$500,Enterprise trial CR,0.31,-0.1,10,Non-inferiority A/B,CR decline<10%,Net new MRR positive,1792,3584,359
+Starter 30-60-90 onboarding,90-day retention,0.16,0.25,55,A/B at signup,Retention≥20% day 90,Support tickets +<20%,723,1446,27
+LinkedIn +20% budget,6mo LTV:CAC,3.9,0.2,12,DiD vs prior period,LTV:CAC≥5.0,Signups not fall>10%,9999,19998,1667
+Annual billing incentive,12-month retention,0.16,0.3,30,A/B upgrade prompt,12mo retention≥21%,NPV positive at 18mo,510,1020,34

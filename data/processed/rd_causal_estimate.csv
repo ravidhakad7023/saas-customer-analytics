@@ -1,0 +1,2 @@
+method,bandwidth,n_local,causal_effect,ci_lower,ci_upper,p_value,first_stage_jump,reduced_form_jump,LATE_wald,density_test_p,interpretation
+OLS-RD (linear polynomial),20,198,0.5846,0.257,0.9121,0.0006,-0.0165,0.4914,-29.8033,0.0,Annual billing causally increases retention by 58.5% (95% CI: +25.7% to +91.2%)

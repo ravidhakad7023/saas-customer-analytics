@@ -1,0 +1,10 @@
+segment,priority,action,channel,expected_impact
+Champions,P1,Upsell to next tier / request case study / referral programme entry,In-app + CSM outreach,Expansion MRR +$15-40/mo per account
+Loyal,P1,Annual billing upgrade offer (2 months free),Email sequence day 45,Churn -30% for converted accounts
+At Risk,P1,CSM personal outreach within 72 hours — usage review call,Direct CSM,Retain 40-60% of at-risk MRR
+Cant Lose Them,P1,Executive sponsor call — product feedback session,CSM + AE,Highest MRR concentration — single logo loss is critical
+Promising,P2,Feature education sequence — show depth of product,In-app tooltips + email,Frequency uplift → segment migration to Loyal
+Potential Loyalists,P2,Pricing review — are they on the right tier?,In-app upgrade prompt,MRR expansion via tier upgrade
+Needs Attention,P3,Re-engagement campaign: product update + quick win tutorial,Email + in-app,Recover 20-30% before they become Lost
+Hibernating,P3,Win-back sequence with limited-time offer,Email (3-touch),5-15% reactivation rate; low effort
+Lost,P4,Exit survey + suppress from marketing — do not spend on win-back,Single email,Data collection only — CAC to reacquire exceeds LTV
